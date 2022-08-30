@@ -35,7 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 How to reach me: [email](janghsuh@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -48,10 +48,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JHPBri&show_icons=true&theme=gotham" alt="JHPBri" />
 
 
 
